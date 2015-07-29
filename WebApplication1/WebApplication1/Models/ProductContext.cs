@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
+using System.Diagnostics;
 
 namespace WebApplication1.Models
 {
@@ -11,6 +12,8 @@ namespace WebApplication1.Models
     {
         public ProductContext() : base("DefaultConnection")
         {
+            Debug.WriteLine("DAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+
         }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }

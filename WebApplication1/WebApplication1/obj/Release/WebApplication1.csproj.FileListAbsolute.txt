@@ -77,3 +77,6 @@ C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Release\WebApplication1.c
 C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
 C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb
 C:\Work\WepAppTest\WebApplication1\WebApplication1\bin\CodeFirstStoreFunctions.dll
+C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Release\WebApplication1.Migrations.InitialCreate.resources
+C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Release\WebApplication1.Migrations.Initial.resources
+C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Release\WebApplication1.csproj.GenerateResource.Cache

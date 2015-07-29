@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
+using System.Diagnostics;
 
 namespace WebApplication1.Models
 {
@@ -12,6 +13,8 @@ namespace WebApplication1.Models
         {
          protected override void Seed(ProductContext context)
         {
+            Debug.WriteLine("DAAAAAAAAAAAAAAAAAAAAAAAAAAA222222");
+
             GetCategories().ForEach(c => context.Categories.Add(c));
             GetProducts().ForEach(p => context.Products.Add(p));
         }
