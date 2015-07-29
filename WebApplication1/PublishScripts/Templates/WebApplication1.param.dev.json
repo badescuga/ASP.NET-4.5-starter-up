@@ -1,0 +1,32 @@
+{
+  "siteName": {
+    "value": "WebApplication19906"
+  },
+  "hostingPlanName": {
+    "value": "aspxTestPlan"
+  },
+  "siteLocation": {
+    "value": "North Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "serverName": {
+    "value": "webapprgdb"
+  },
+  "serverLocation": {
+    "value": "North Europe"
+  },
+  "administratorLogin": {
+    "value": "badescuga"
+  },
+  "administratorLoginPassword": {
+    "value": "Philipsacer9"
+  },
+  "databaseName": {
+    "value": "WebApplication19906_db"
+  }
+}
