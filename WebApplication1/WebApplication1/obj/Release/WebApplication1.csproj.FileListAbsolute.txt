@@ -76,3 +76,4 @@ C:\Work\WepAppTest\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.O
 C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Release\WebApplication1.csprojResolveAssemblyReference.cache
 C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
 C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb
+C:\Work\WepAppTest\WebApplication1\WebApplication1\bin\CodeFirstStoreFunctions.dll

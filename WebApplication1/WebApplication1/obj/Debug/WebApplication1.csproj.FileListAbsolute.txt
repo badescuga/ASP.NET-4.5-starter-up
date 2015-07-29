@@ -1,4 +1,3 @@
-C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 C:\Work\WepAppTest\WebApplication1\WebApplication1\bin\roslyn\csc.exe
 C:\Work\WepAppTest\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Work\WepAppTest\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll

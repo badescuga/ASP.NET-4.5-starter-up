@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-WebApplication1-20150729033125.mdf;Initial Catalog=aspnet-WebApplication1-20150729033125;Integrated Security=True" tags="SqlConnectionString">
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;&#xD;&#xA;         AttachDbFilename=|DataDirectory|\aspnet-WebApplication1-20150729033125.mdf;&#xD;&#xA;         Initial Catalog=aspnet-WebApplication1-20150729033125;&#xD;&#xA;         Integrated Security=True" tags="SqlConnectionString">
     <parameterEntry kind="XmlFile" scope="C:\\Work\\WepAppTest\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="WingtipToys-Web.config Connection String" description="WingtipToys Connection String used in web.config by the application to access the database." defaultValue="WingtipToys_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Work\\WepAppTest\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='WingtipToys']/@connectionString" />
   </parameter>
 </parameters>
