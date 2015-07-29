@@ -76,3 +76,4 @@ C:\Work\WepAppTest\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.M
 C:\Work\WepAppTest\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache

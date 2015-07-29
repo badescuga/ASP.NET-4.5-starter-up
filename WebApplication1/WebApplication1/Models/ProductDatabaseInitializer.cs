@@ -8,7 +8,7 @@ using System.Data.Entity;
 namespace WebApplication1.Models
 {
 
-        public class ProductDatabaseInitializer : DropCreateDatabaseIfModelChanges<ProductContext>
+        public class ProductDatabaseInitializer : DropCreateDatabaseAlways<ProductContext>
         {
          protected override void Seed(ProductContext context)
         {

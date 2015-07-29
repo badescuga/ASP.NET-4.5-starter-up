@@ -9,7 +9,7 @@ namespace WebApplication1.Models
 {
     public class ProductContext : DbContext
     {
-        public ProductContext() : base("WingtipToys")
+        public ProductContext() : base("DefaultConnection")
         {
         }
         public DbSet<Category> Categories { get; set; }
