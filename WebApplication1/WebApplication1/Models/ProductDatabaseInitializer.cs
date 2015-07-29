@@ -9,7 +9,7 @@ using System.Diagnostics;
 namespace WebApplication1.Models
 {
 
-        public class ProductDatabaseInitializer : DropCreateDatabaseAlways<ProductContext>
+        public class ProductDatabaseInitializer : DropCreateDatabaseIfModelChanges<ProductContext>
         {
          protected override void Seed(ProductContext context)
         {
