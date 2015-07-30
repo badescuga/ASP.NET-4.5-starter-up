@@ -80,3 +80,4 @@ C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Mig
 C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.GenerateResource.Cache
 C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Migrations.Initial.resources
 C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Migrations.testMigration1.resources

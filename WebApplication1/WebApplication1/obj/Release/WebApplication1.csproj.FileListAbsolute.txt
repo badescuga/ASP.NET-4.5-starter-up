@@ -80,3 +80,4 @@ C:\Work\WepAppTest\WebApplication1\WebApplication1\bin\CodeFirstStoreFunctions.d
 C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Release\WebApplication1.Migrations.InitialCreate.resources
 C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Release\WebApplication1.Migrations.Initial.resources
 C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Release\WebApplication1.csproj.GenerateResource.Cache
+C:\Work\WepAppTest\WebApplication1\WebApplication1\obj\Release\WebApplication1.Migrations.testMigration1.resources
