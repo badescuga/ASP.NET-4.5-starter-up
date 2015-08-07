@@ -7,6 +7,8 @@ using System.Web.Security;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using Microsoft.AspNet.Identity;
+using System.Linq;
+using WebApplication1.Models;
 
 namespace WebApplication1
 {
@@ -71,6 +73,14 @@ namespace WebApplication1
         {
 
         }
+        public IQueryable<Category> GetCategories()
+        {
+            var _db = new WebApplication1.Models.ProductContext();
+            IQueryable<Category> query = _db.Categories;
+            return query;
+        }
+
+
 
         protected void Unnamed_LoggingOut(object sender, LoginCancelEventArgs e)
         {
